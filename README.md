@@ -176,6 +176,8 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 |Conditional Treatment-adversarial Learning Based Matching|[Yao, Liuyi, Sheng Li, Yaliang Li, Hongfei Xue, Jing Gao, and Aidong Zhang. "On the estimation of treatment effect with text covariates." In Proceedings of the 28th International Joint Conference on Artificial Intelligence, pp. 4106-4113. AAAI Press, 2019.](https://pdfs.semanticscholar.org/2e2f/39232771711248940f68c3c1d6bd0a22c3e4.pdf)|NA|
 |Causal Inferences Using Texts|[Egami, Naoki, Christian J. Fong, Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart. "How to make causal inferences using texts." arXiv preprint arXiv:1802.02163 (2018).](https://arxiv.org/pdf/1802.02163.pdf)|NA|
 |Causal FS for text classification|[Michael J. Paul. Feature selection as causal inference: experiments with text classification. Conference on Computational Natural Language Learning (CoNLL), Vancouver, Canada. August 2017.](https://www.aclweb.org/anthology/K/K17/K17-1018.pdf)|NA|
+|Causal Discovery Using Proxy Variables|[Rojas-Carulla M, Baroni M, Lopez-Paz D. Causal discovery using proxy variables[J]. arXiv preprint arXiv:1702.07306, 2017.](https://arxiv.org/pdf/1702.07306)|NA|
+
 
 ### Counterfactual Explanations
 |Paper|Code|
